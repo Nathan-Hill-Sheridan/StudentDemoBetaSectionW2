@@ -13,12 +13,14 @@ package student1;
 class Student {
 
 private String name;   
-    
+    private int id;
  public Student() {
   name = "your name";  
+  id = 123;
  }
- public Student(String name) {
+ public Student(String name, int id) {
   setName (name);  
+  setID (id);
  }
     
  public void setName(String a) {
