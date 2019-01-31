@@ -1,14 +1,15 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.  31st January 2019.
+ * and open the template in the editor.  
  */
 
 package student1;
 
 /**
  *
- * @author Nathan
+ * @author Nathan 31st January 2019.
+
  */
 class Student {
 
